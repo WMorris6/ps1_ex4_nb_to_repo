@@ -1,0 +1,13 @@
+name: ps1_ex4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - scikit-learn
+  - matplotlib
+  - ipykernel
+  - pandas
+  - numpy
+  - seaborn
+prefix: /Users/will/conda/envs/ps1_ex4
